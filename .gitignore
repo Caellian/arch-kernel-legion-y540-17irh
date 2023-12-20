@@ -15,6 +15,7 @@ src/
 include/
 
 linux-*-arch1.patch.zst
+config.old
 
 ### Linux ###
 *~
